@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>GameWindow.png</file>
+        <file>singleplayericon.png</file>
+        <file>Hexagon.png</file>
+        <file>mapeditoricon.jpg</file>
+        <file>soldiericon.png</file>
+        <file>defencetowericon.png</file>
+        <file>woodicon.png</file>
+        <file>defencetowericonclicked.png</file>
+        <file>soldiericonclicked.png</file>
+        <file>woodiconclicked.png</file>
+        <file>defencetower.png</file>
+        <file>soldier.png</file>
+        <file>wood.png</file>
+        <file>saveicon.png</file>
+        <file>map.map</file>
+        <file>Back.png</file>
+        <file>Map.png</file>
+        <file>Multi.png</file>
+        <file>Play.png</file>
+        <file>bomberbutton.png</file>
+        <file>movebutton.png</file>
+        <file>remoteattackbutton.png</file>
+        <file>highlightedhexagon.png</file>
+        <file>castle.png</file>
+        <file>castleicon.png</file>
+        <file>castleiconclicked.png</file>
+        <file>hovel.png</file>
+        <file>hovelicon.png</file>
+        <file>createworkerbutton.png</file>
+        <file>military_home.png</file>
+        <file>militaryhouseicon.png</file>
+        <file>stone.png</file>
+        <file>stoneicon.png</file>
+        <file>worker.png</file>
+        <file>extractionbutton.png</file>
+        <file>castlehalf.png</file>
+        <file>defencetowerhalf.png</file>
+        <file>hovelhalf.png</file>
+        <file>military_homehalf.png</file>
+        <file>completebiulding.png</file>
+        <file>createworkerbuttonclicked.png</file>
+        <file>hoveliconclicked.png</file>
+        <file>militaryhouseiconclicked.png</file>
+    </qresource>
+</RCC>
