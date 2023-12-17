@@ -1,5 +1,5 @@
 # HiveWar
-This project is part of the **Advanced Programming and Lab** course.
+This project was originally conducted as part of the **Spring 2016 Advanced Programming and Lab** course.
 
 A real-time strategy game developed with Qt, where players can engage in battles against an AI opponent.
 
@@ -17,3 +17,6 @@ The image below shows a gameplay moment where a worker is selected. The left-sid
 ## Map Builder
 HiveWar also includes a map editor that allows players to design and create custom maps.
 Designed maps can be saved, and they will be accessible from the map selection menu upon your next game session.
+
+## Acknowledgments
+Course instructor: [Dr. Maryam Mouzarani](https://scholar.google.com/citations?user=2gL6RiYAAAAJ&hl=en)
